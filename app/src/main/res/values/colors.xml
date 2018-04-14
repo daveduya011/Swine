@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="shadow">#464646</color>
+    <color name="active">#e26c48</color>
+    <color name="splash_color">#ff6060</color>
+    <color name="splash_color_dark">#ff8484</color>
+    <color name="correctAnswer">#58a955</color>
+    <color name="green">#99ea96</color>
+    <color name="winBg">#e15954</color>
+</resources>

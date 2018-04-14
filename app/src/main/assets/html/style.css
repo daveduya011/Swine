@@ -1,0 +1,55 @@
+@font-face {
+    font-family: nexaBold;
+    src: url('nexabold.otf');
+}@font-face {
+    font-family: nexaReg;
+    src: url('nexareg.otf');
+}
+
+body {background:#FF6060;
+        margin:20px;
+    position: relative;
+}
+
+.content {color:#fff;
+            font-family: nexaBold;
+            font-size:15px;
+            position: relative;
+            }
+
+.title {text-align: center}
+
+.section {
+    background: #fff;
+    color:#434343;
+    padding:20px;
+    margin-top:10px;
+    font-family: nexaReg;
+    position: relative;
+}
+.navigation {
+    text-decoration: none;
+    padding:20px;
+    background: #fff;
+    display: block;
+    margin:10px;
+    color:#434343;
+}
+
+.navigation:hover {
+    background: #434343;
+    color:#fff;
+}
+
+.topic {
+    font-family: nexaBold;
+}
+
+.image img{width:100%;}
+
+table {width:100%; text-align: center; border-collapse: collapse; margin-top:20px;
+    margin-bottom:20px;}
+table tr {width:100%}
+table tr td {padding:10px; border:1px #000 solid; width:50%;}
+table tr th {padding:10px; border:1px #000 solid; background: #444; color:#fff;}
+video {width:100%; }
